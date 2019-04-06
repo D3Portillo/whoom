@@ -1,0 +1,27 @@
+{
+  "name": "whoom",
+  "version": "0.0.1",
+  "description": "A tool for knowing who contributed/worked on a web related stuff, can be used as a \"hidden\" way to idk , show off your work? :)",
+  "main": "whoom.js",
+  "scripts": {
+    "test": "echo \"Error: not yet added\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D3Portillo/whoom.git"
+  },
+  "keywords": [
+    "who",
+    "made",
+    "this",
+    "web",
+    "js",
+    "html"
+  ],
+  "author": "D3Portillo <d3portillo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/D3Portillo/whoom/issues"
+  },
+  "homepage": "https://github.com/D3Portillo/whoom#readme"
+}
